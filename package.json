@@ -16,7 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.3.0",
     "mongoose": "^5.6.9",
-    "nodemailer": "^6.3.0",
+    "nodemailer": "^6.4.16",
     "nodemailer-express-handlebars": "^3.1.0",
     "path": "^0.12.7",
     "validator": "^11.1.0"
